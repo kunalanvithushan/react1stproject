@@ -1,0 +1,47 @@
+@import '~normalize.css';
+@import "~@blueprintjs/core/lib/css/blueprint.css";
+@import "~@blueprintjs/icons/lib/css/blueprint-icons.css";
+body{
+
+display: flex;
+justify-content: center;
+
+}
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+   
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 5vh;
+    
+    
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .App-h {
+    background-color: #8baced;
+    min-height: 5vh;
+    
+    
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(7px + 2vmin);
+    color: rgb(9, 9, 9);
+  }
+  
+  
+   
+   
+  
